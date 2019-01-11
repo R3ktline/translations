@@ -53,16 +53,17 @@
             "shop" : "magazin",
             "cosmetics" : {
                 "dropdown" : "cosmetice",
-                "upcoming" : "nelansate",
+                "upcoming" : "urmand",
                 "list" : "listă",
                 "png" : "png",
                 "gallery" : "galerie",
                 "icons" : "iconițe",
-                "reminders" : "remindere",
+                "reminders" : "memento",
                 "history" : "istoria magazinului"
             },
             "news" : "noutăți",
             "modes" : "moduri",
+            "translate" : "tradu",
             "randomiser" : "randomizator",
             "about" : {
                 "dropdown" : "despre",
@@ -76,7 +77,7 @@
             "account" : {
                 "dropdown" : "cont",
                 "account" : "cont",
-                "logout" : "deconectare"
+                "logout" : "delogare"
             },
             "languagePicker" : {
                 "trigger" : "limbă",
@@ -84,7 +85,7 @@
                 "currentLanguage" : "Momentan folosești limba [language]",
                 "error" : "Eroare la descărcarea fișierului limbii",
                 "authors" : "Tradus de către:",
-                "cta" : "Apasă pentru a schimba în limba [language]",
+                "cta" : "Click pentru a schimba în limba [language]",
                 "switching" : "Se descarcă limba [language]...",
                 "finished" : "Limba a fost schimbată!"
             }
@@ -92,8 +93,8 @@
         "home" : {
             "title-upcoming" : "Obiectele nelansate",
             "title-all" : "Toate obiectele",
-            "error" : "Nu s-au putut primi obiectele, te rugăm să încerci din nou în câteva momente.",
-            "error-too-long" : "Acțiunea durează mai mult decât ar trebui"
+            "error" : "Nu s-au putut incarca obiectele, te rugăm să încerci din nou în câteva momente.",
+            "error-too-long" : "Asta durează mai mult decât ar trebui"
         },
         "shop" : {
             "title" : "Rotația curentă",
@@ -102,7 +103,7 @@
             "error" : "Magazinul nu este disponibil, te rugăm încearcă din nou în câteva momente",
             "line1" : "Rotația magazinului curent pentru Fortnite Battle Royale - se actualizează in fiecare zi la ora [00:00 UTC](https://time.is/UTC|tooltip=Tipm curent in UTC|newtab=true).",
             "line2" : "Poți vedea magazinul de ieri apăsând [aici](/shop/yesterday|tooltip=Magazinul de ieri).",
-            "line3" : "Apasă pe un cosmetic pentru a vedea mai multe informații despre acesta.",
+            "line3" : "Apasă pe 0 cosmetică pentru a vedea mai multe informații despre aceasta.",
             "countdown" : {
                 "title" : "Obiecte noi:",
                 "wordyFormat" : "[number] [noun]",
@@ -129,7 +130,7 @@
             "list" : {
                 "title" : "Istoria magazinului",
                 "line1" : "Aici sunt ultimele 8 rotații ale magazinului din Fortnite Battle Royale.",
-                "line2" : "Apasă pe una pentru a vedea magazinul sau derulează pentru a vedea toată istoria magazinelor după zi."
+                "line2" : "Apasă pe una pentru a vedea tot magazinul sau derulează pentru a vedea toată istoria magazinelor după zi."
             },
             "view" : {
                 "title" : "Rotația magazinului",
@@ -151,7 +152,7 @@
             "randomise-all" : "Amestecă-le pe toate!"
         },
         "png" : {
-            "title" : "PNG-ul cosmeticelor",
+            "title" : "PNG-uri cu cosmetice",
             "line1" : "Te rugăm să lași creditele către fnbr.co dacă folosești imaginile noastre. Previzualizările sunt micșorate, însă descărcările vor fi în mărime normală.",
             "sort-by" : "Filtrează după:",
             "all" : "Toate"
@@ -159,7 +160,7 @@
         "gallery" : {
             "title" : "Galeria cosmeticelor",
             "line1" : "Toate cosmeticele disponibile în Fortnite Battle Royale.",
-            "line2" : "Te rugăm să nu folosești aceste imagini pe contul tău social media/website-ul tău personal fără credite către fnbr.co"
+            "line2" : "Te rugăm să nu folosești aceste imagini pe website-ul tău personal/contul de social media fără credite către fnbr.co"
         },
         "icons" : {
             "title" : "Iconițele Fortnite Battle Royale",
